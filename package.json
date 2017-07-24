@@ -1,0 +1,25 @@
+{
+  "name": "crud_warmup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caro2692/crud_warmup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caro2692/crud_warmup/issues"
+  },
+  "homepage": "https://github.com/caro2692/crud_warmup#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "knex": "^0.13.0",
+    "pg": "^7.0.2"
+  }
+}

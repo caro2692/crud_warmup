@@ -19,6 +19,7 @@
   "homepage": "https://github.com/caro2692/crud_warmup#readme",
   "dependencies": {
     "bcrypt": "^1.0.2",
+    "dotenv": "^4.0.0",
     "knex": "^0.13.0",
     "pg": "^7.0.2"
   }
